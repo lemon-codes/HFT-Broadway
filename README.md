@@ -43,7 +43,7 @@ These are what you'll find once you've created your app on Twitch, try not to le
 
 **List of streamers**
 
-This is the list of the streamers you want to display on your website, this should be one long string of usernames separated by commas like `streamer1,streamer2,streamer3`
+This is the list of the streamers you want to display on your website, this should be one long string of usernames separated by commas like `streamer1,streamer2,streamer3`. Make sure you do not have any spaces in this list otherwise you may run into issues.
 
 **Discord URL**
 
