@@ -1,6 +1,6 @@
 .Streamer {
     display: inline-block;
-    box-shadow: 0px 8px 32px -8px rgba(0,0,0,0.75);
+    box-shadow: 0px 8px 32px -8px rgb(0,0,0);
     background: #fff;
     overflow: hidden;
     text-decoration: 0;
@@ -15,7 +15,7 @@ div:hover > .Streamer:not(:hover) .StreamerThumbnail {
 }
 
 .Streamer:hover {
-    box-shadow: 0px 32px 64px -8px rgba(0,0,0,0.5);
+    box-shadow: 0px 32px 64px -8px rgb(0,0,0);
     transform: translate3d(0,-8px,0);
 
 }
