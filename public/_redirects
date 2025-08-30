@@ -1,0 +1,5 @@
+# This application is now decommissioned so redirect to the watch page on the new site
+# Ideally we'd do this redirect on the new site but it's managed by a third party who don't support
+# redirects to specific pages
+https://watch.happyfuntime.uk/* https://www.happyfuntime.uk/watch 301!
+http://watch.happyfuntime.uk/* https://www.happyfuntime.uk/watch 301!
